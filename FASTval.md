@@ -22,13 +22,13 @@
 ## :baby_chick: 내가 기여한 부분
 > 약 22개의 HTML 중 6개 코드 작성을 맡았지만 팀원들끼리 막힌 부분이 있다면 해결 가능한 사람이 해결해주고 설명했었다.
 > 그래서 페이지 당 한번씩은 다 코드 작성을 도와준 것 같다 :) 
+>
+>[발표용 ppt](https://github.com/oyuri030/project_a/blob/main/%EA%B5%AD%EB%82%B4%EC%B6%95%EC%A0%9C%EA%B4%80%EA%B4%91_%EC%9B%B9_%EB%94%94%EC%9E%90%EC%9D%B8.pdf)
+>
 > ![image](https://user-images.githubusercontent.com/127528582/224553664-fb460f2c-e4d3-4af2-b72c-42b512d69a56.png)
 > ![image](https://user-images.githubusercontent.com/127528582/224553696-7b35b8cc-2b9c-4bd8-9ed9-5020385c6737.png)
 > ![image](https://user-images.githubusercontent.com/127528582/224553809-a6e828cd-bf58-4397-84ca-bf2df8930b99.png)
 > ![image](https://user-images.githubusercontent.com/127528582/224553777-de099b97-0bab-4aba-856a-c2c98348a71d.png)
-
-
-
 
 
 </br>
