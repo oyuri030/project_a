@@ -22,6 +22,7 @@
 
 ## :baby_chick: 내가 기여한 부분
 >개인 프로젝트
+>
 >[발표용 pdf](https://github.com/oyuri030/project_a/blob/main/%EC%98%81%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%A6%AC%EB%B7%B0%EC%82%AC%EC%9D%B4%ED%8A%B8_jsp.pdf)
 >
 >mysql과 이클립스를 연결,
