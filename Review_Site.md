@@ -23,7 +23,8 @@
 ## :baby_chick: 내가 기여한 부분& 기능
 >개인 프로젝트
 >
-> 리뷰 작성, 수정, 삭제, 정렬, 검색
+> 리뷰 작성, 수정, 삭제, 정렬, 검색이 가능하다. 
+> 
 >[발표용 pdf](https://github.com/oyuri030/project_a/blob/main/%EC%98%81%ED%99%94%EB%93%9C%EB%9D%BC%EB%A7%88_%EB%A6%AC%EB%B7%B0%EC%82%AC%EC%9D%B4%ED%8A%B8_jsp.pdf)
 >
 >mysql과 이클립스를 연결,
