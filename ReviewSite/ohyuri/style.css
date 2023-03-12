@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+
+
+@font-face {
+    src: url("fonts/Cafe24Danjunghae.ttf");
+    font-family:"cafe24";
+}
+
+.title { font-family: "cafe24";}
+		
+		
+		
+		
+		
+		
+		
+	*{
+	color:#000;
+	box-sizing:border-box;
+	text-decoration:none;
+	list-style:none;
+	}	
+		
+.header{
+	font-family: "cafe24";
+	height:100px;
+	width:1720px;
+	margin:0 auto;
+}
+		
+		
+.section{
+	height:100%;
+	width:100%;
+	font-size:0px;
+}
+
+.logo{
+	height:100%;
+	width:6%;
+	font-size:40px;
+	display:inline-block;
+	line-height:2.5;
+	margin-left:30px;
+	vertical-align:top;
+}
+
+.nav{
+	height:100%;
+	width:82%;
+	font-size:0;
+	display:inline-block;
+	text-align:center;
+}
+
+.nav ul li{
+	font-size: 24px;
+  line-height: 3.9;
+  margin: 0 15px;
+  display: inline-block;
+  color: black;
+
+}
+
+h4{
+	font-size: 18px;
+}
+
+.divcon{
+  	width: 1400px;
+	margin: auto;
+  text-align: center;
+
+}
+
+.sss{
+text-align: center;
+
+
+}
+
+
+
